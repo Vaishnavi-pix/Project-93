@@ -1,0 +1,12 @@
+.header{
+    border-style:ridge;
+    border-color:white;
+    border-width:10px;
+    font-size: 100px;
+}
+.login_div{
+margin-top:80px;
+font-family: 'Castoro', serif;
+margin-left: 50px;
+font-size:50px;
+}
